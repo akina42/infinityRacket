@@ -1,2 +1,2 @@
-# inifinityRacket
+# infinityRacket
 Resolvedor Infinity em Racket
